@@ -25,6 +25,8 @@ Why did I choose an hour and a half? I've been a member for over a year and have
 ## Sections
 As of now, there are three different sections that make up this project:
 
-Weather Data Collection - Collecting the hourly weather data and exporting to a csv.
+Weather Data Collection - Collecting the hourly weather data and exporting to a csv
+
 Gym Occupancy - Using the sign-in data to create a csv that lists occupants per hour
+
 Weather vs Occupancy - Using the two above csv's, combine them and perform predictive analysis
