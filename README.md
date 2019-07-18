@@ -22,3 +22,9 @@ Why did I choose an hour and a half? I've been a member for over a year and have
 - Most members spend between 1-2 hours in the gym (some outliers spend more than that but only a handful of people)
 - Classes are one hour in length, by the time members sign in, warmup, do the class, and cool down/talk with others after it's been about 1.5 hours
 
+## Sections
+As of now, there are three different sections that make up this project:
+
+Weather Data Collection - Collecting the hourly weather data and exporting to a csv.
+Gym Occupancy - Using the sign-in data to create a csv that lists occupants per hour
+Weather vs Occupancy - Using the two above csv's, combine them and perform predictive analysis
