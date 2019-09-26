@@ -23,14 +23,12 @@ Why did I choose an hour and a half? I've been a member for over a year and have
 - Classes are one hour in length, by the time members sign in, warmup, do the class, and cool down/talk with others after it's been about 1.5 hours
 
 ## Sections
-As of now, there are five different sections that make up this project:
+There are four different sections that make up this project:
 
 Weather Data Collection - Collecting the hourly weather data and exporting to a csv
 
 Occupancy Data Collection - Using the sign-in data to gather occupants per hour and exporting to a csv
 
 Weather vs Occupancy - Using the two above csv's, combine them and perform predictive analysis
-
-Weather Data Exploration - Analying the weather data and providing commentary
 
 Occupancy Data Exploration - Analyzing the occupancy data and providing commentary
