@@ -1,10 +1,10 @@
 # How Busy Is The Gym Right Now?
 Who wants to go to an overcrowded gym? Wouldn't it be great to see when the best time to go is? Or even just to know what to expect when you're planning to head in?
 
-This is something I've always been curious about, and now with data analytics and predictive analysis, it's finally something I can create!
+This is something I've always been curious about, and now it's finally something I can create!
 
 ## Objective
-I wanted to create a chart that displays the expected number of people in the gym for each hour. This chart would be updated daily.
+In the grand scheme of things, I want to create a chart that displays the expected number of people in the gym for each hour. This chart would be updated daily.
 
 Using weather forecasting, holidays, events, and class schedules, the occupancy should be predictable.
 
@@ -29,6 +29,6 @@ Weather Data Collection - Collecting the hourly weather data and exporting to a 
 
 Occupancy Data Collection - Using the sign-in data to gather occupants per hour and exporting to a csv
 
-Weather vs Occupancy - Using the two above csv's, combine them and perform predictive analysis
-
 Occupancy Data Exploration - Analyzing the occupancy data and providing commentary
+
+Weather vs Occupancy - Using the two above csv's, combine them and perform predictive analysis
